@@ -1,6 +1,8 @@
 # UROP Project AY22/23 
 
-## To Run
-  python run_simulation.py
+# Current Work in Progress
 
-Variable values can be changed in the constants.py file
+## To Run
+> Command: python run_simulation.py
+
+
